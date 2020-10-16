@@ -1,0 +1,75 @@
+C:\CSharpProject\RequestIT\bin\Debug\RequestIT.exe.config
+C:\CSharpProject\RequestIT\bin\Debug\RequestIT.exe
+C:\CSharpProject\RequestIT\bin\Debug\RequestIT.pdb
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.csprojAssemblyReference.cache
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.FormLogin.resources
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.Properties.Resources.resources
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.csproj.GenerateResource.cache
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.exe
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.pdb
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.FormRegister.resources
+C:\CSharpProject\RequestIT\obj\Debug\RequestIT.FormNFeed.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\bin\Debug\RequestIT.exe.config
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\bin\Debug\RequestIT.exe
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\bin\Debug\RequestIT.pdb
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.FormLogin.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.FormRegister.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.Properties.Resources.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.exe
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.pdb
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.Comments.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.FormNewPost.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.NewsFeed.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.Post.resources
+C:\Users\user\Desktop\CSharpProject\RequestIT\RequestIT\obj\Debug\RequestIT.UserPanel.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\bin\Debug\RequestIT.exe.config
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\bin\Debug\RequestIT.exe
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\bin\Debug\RequestIT.pdb
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.csprojAssemblyReference.cache
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.Comments.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.FormAdminPanel.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.FormLogin.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.FormNewPost.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.FormRegister.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.FormUpdatePro.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.NewsFeed.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.Properties.Resources.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.UserPanel.resources
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.csproj.GenerateResource.cache
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.csproj.CoreCompileInputs.cache
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.exe
+C:\Users\ayshi\OneDrive\Desktop\Request it\New folder\RequestIT\obj\Debug\RequestIT.pdb
+C:\Users\user\Desktop\requestit10.0\RequestIT\bin\Debug\RequestIT.exe.config
+C:\Users\user\Desktop\requestit10.0\RequestIT\bin\Debug\RequestIT.exe
+C:\Users\user\Desktop\requestit10.0\RequestIT\bin\Debug\RequestIT.pdb
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.Comments.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.FormAdminPanel.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.FormLogin.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.FormNewPost.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.FormRegister.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.FormUpdatePro.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.NewsFeed.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.Properties.Resources.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.UserPanel.resources
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.exe
+C:\Users\user\Desktop\requestit10.0\RequestIT\obj\Debug\RequestIT.pdb
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\bin\Debug\RequestIT.exe.config
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\bin\Debug\RequestIT.exe
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\bin\Debug\RequestIT.pdb
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.csprojAssemblyReference.cache
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.Comments.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.FormAdminPanel.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.FormLogin.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.FormNewPost.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.FormRegister.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.FormUpdatePro.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.NewsFeed.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.Properties.Resources.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.UserPanel.resources
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.csproj.GenerateResource.cache
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.exe
+C:\CSharpProject\requestit10.0 (2)\requestit10.0\RequestIT\obj\Debug\RequestIT.pdb
